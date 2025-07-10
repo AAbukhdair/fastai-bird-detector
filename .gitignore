@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+CUB_200_2011.tgz
+CUB_200_2011.tar
+CUB_200_2011/
+
+data/
+data/bird_classifier.pkl
